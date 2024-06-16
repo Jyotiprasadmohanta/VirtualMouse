@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-import pyautogui
 import pyautogui as pg
 cap = cv2.VideoCapture(0)
 drawing_utils = mp.solutions.drawing_utils
