@@ -1,3 +1,5 @@
+#Developed by Jyotiprasad Mohanta
+
 import cv2
 import mediapipe as mp
 import pyautogui as pg
